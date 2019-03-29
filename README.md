@@ -6,5 +6,7 @@ I encountered a couple of issues with the map, the first being I have no clue ho
 
 
 
-Here is a gif (I struggled to load it to the gitpages:) 
+Here is a gif (I struggled to load it to the gitpages:)
+
+
 <a href="https://imgflip.com/gif/2xaj7j"><img src="https://i.imgflip.com/2xaj7j.gif" title="made at imgflip.com"/></a>
